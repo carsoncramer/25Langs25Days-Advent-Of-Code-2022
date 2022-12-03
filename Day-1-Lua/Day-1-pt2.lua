@@ -1,4 +1,3 @@
-
 -- Link to Day-1 Problem: https://adventofcode.com/2022/day/1
 
 file = io.input("input.txt", "r");
